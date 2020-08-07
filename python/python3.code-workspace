@@ -1,0 +1,12 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.autoSave": "afterDelay",
+        "editor.formatOnSave": true,
+        "python.pythonPath": "C:\\Users\\Lyuha\\scoop\\shims\\python.exe"
+    }
+}
